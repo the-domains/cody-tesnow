@@ -1,7 +1,7 @@
 name: Cody Tesnow
 favicon: null
-layout_spectrum: 0.515466591110453
-typography_spectrum: 0.016724071232602
+layout_spectrum: 0.74401
+typography_spectrum: 1
 title: 'Cody Tesnow - Writer. Creative. Rabblerouser. '
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#2559a2'
+    - '#ae9e84'
+    - '#5faee9'
+    - '#aae4fa'
+    - '#6f7070'
   brandStrength: 0.734673359664157
   lightness: 0.5366962447296828
   saturation: 0.9973775411490351
