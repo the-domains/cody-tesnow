@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cody Tesnow - Writer. Creative. Rabblerouser. ]]></title>
         <description><![CDATA[Cody Tesnow - Writer. Creative. Rabblerouser. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://codytesnow.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:01:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 19:01:48 GMT</lastBuildDate>
+        <atom:link href="http://codytesnow.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8764c24b-fa49-4238-9048-41c1ac963bbf.JPG">]]></description>
+            <link>http://codytesnow.com/95432436-6968-4da5-a8ce-67a0f7aad98e/index.html</link>
+            <guid isPermaLink="false">95432436-6968-4da5-a8ce-67a0f7aad98e</guid>
+            <pubDate>Tue, 09 Feb 2016 19:01:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I've been waiting for this for a long time. Now I won't have any excuses to not "Do." </p>]]></description>
-            <link>undefined1e4e91fd-06f4-411b-ad8e-ca988d1e7f81/index.html</link>
+            <link>http://codytesnow.com/1e4e91fd-06f4-411b-ad8e-ca988d1e7f81/index.html</link>
             <guid isPermaLink="false">1e4e91fd-06f4-411b-ad8e-ca988d1e7f81</guid>
             <pubDate>Tue, 09 Feb 2016 19:01:04 GMT</pubDate>
         </item>
