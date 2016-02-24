@@ -1,29 +1,41 @@
-name: Cody Tesnow
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
 title: 'Cody Tesnow - Writer. Creative. Rabblerouser. '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-5189846-7
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.25
+  brandStrength: 0.25
+  lightness: 0.5412186
   brandColors:
     - '#2559a2'
     - '#ae9e84'
     - '#5faee9'
     - '#aae4fa'
     - '#6f7070'
-  brandStrength: 0.25
-  lightness: 0.375
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.1917563
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-5189846-7
+  facebook: null
+favicon: null
+name: Cody Tesnow
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.2634408
